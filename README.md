@@ -1,2 +1,2 @@
-# Karthick2006
+# simple calculator 
 Project 
